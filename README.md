@@ -20,7 +20,7 @@ Clean, responsive bento-style grid built with semantic HTML and modern CSS Grid/
 Clone and open the `index.html` in your browser:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/LucasMontecino/bento-grid-frontend-mentor.git
 cd bento-grid-main
 # Open index.html in your browser
 ```
